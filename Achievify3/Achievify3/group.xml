@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+    <!-- Group Members -->
+    <member>
+            <name>James</name>
+            <distance>3</distance>
+            <pace>6:50</pace>
+            <heartRate>110</heartRate>
+        </member>
+           
+        <member>
+            <name>Zoey</name>
+            <distance>2</distance>
+            <pace>5:40</pace>
+            <heartRate>75</heartRate>
+        </member>
+           
+        <member>
+            <name>Dustin</name>
+            <distance>2.5</distance>
+            <pace>7:30</pace>
+            <heartRate>90</heartRate>
+        </member>
+        
+        <member>
+            <name>Chloe</name>
+            <distance>4.5</distance>
+            <pace>6:15</pace>
+            <heartRate>115</heartRate>
+        </member>
+           
+        <member>
+            <name>Jake</name>
+            <distance>3</distance>
+            <pace>6:50</pace>
+            <heartRate>80</heartRate>
+        </member>
+           
+        <member>
+            <name>Isabelle</name>
+            <distance>1.5</distance>
+            <pace>8:00</pace>
+            <heartRate>95</heartRate> 
+        </member>
+</group>
